@@ -45,7 +45,7 @@ body{
     height: 18vmin;
     width: 18vmin;
     box-shadow: 0 0 1rem;
-    font-size: 6rem;
+    font-size: 6vmin;
     color:rgb(139, 89, 33);
     background-color: #ffffc7;  
 }
